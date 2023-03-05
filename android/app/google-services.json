@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "529244114205",
+    "project_id": "hackhound-1f311",
+    "storage_bucket": "hackhound-1f311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529244114205:android:3a756e4d31d131465d65f4",
+        "android_client_info": {
+          "package_name": "com.example.testing_add_subtract_of_items"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529244114205-5tt5ue24hsn84if0lodjs7bvkq72070o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB74fd6pCF8IR8PuhdqD_gf_SmLMcUfm80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529244114205-5tt5ue24hsn84if0lodjs7bvkq72070o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
